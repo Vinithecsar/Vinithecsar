@@ -1,8 +1,7 @@
-## Olá 👋
-Sou Vinícius César 🎈
+<h1 align="center"> Oi! Sou Vinícius 👋</h1>
 
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinithecsar&layout=donut&langs_count=6&theme=dracula)](#)
-
+<div align="center">
+  
 # Estou aprendendo atualmente:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
@@ -11,7 +10,16 @@ Sou Vinícius César 🎈
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
-# Contato
-<div>
+##
+ 
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinithecsar&theme=github_dark)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinithecsar&theme=github_dark)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinithecsar&theme=github_dark)
+
+##
+
+#### Contato
+
 <a href="https://linkedin.com/in/vinícius-césar-08508b229" target="_blank"><img loading="lazy" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" target="_blank"></a> 
+
 </div>
