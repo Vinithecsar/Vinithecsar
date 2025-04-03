@@ -1,6 +1,6 @@
 <h1 align="center"> Oi! Sou Vinícius 👋</h1>
 
-<h4 align="center">Na organização <a href="https://github.com/ViniDevLabs">ViniDevLabs</a> estão meus projetos acadêmicos</h4>
+<h4 align="center">Na organização <a href="https://github.com/ViniDevLabs">ViniDevLabs</a> estão meus projetos acadêmicos do ensino técnico e superior</h4>
 
 ##
 
