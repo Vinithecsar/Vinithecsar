@@ -19,9 +19,9 @@
   
 </h1>
  
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinithecsar&theme=github_dark)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinithecsar&theme=github_dark)
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinithecsar&theme=github_dark)
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinithecsar&theme=github_dark)](#)
+[![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinithecsar&theme=github_dark)](#)
+[![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinithecsar&theme=github_dark)](#)
 
 ##
 
